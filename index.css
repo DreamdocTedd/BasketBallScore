@@ -26,6 +26,8 @@ h3 {
 
 }
 button {
+    min-width: 5pc;
+    min-height: 5pc;
     background: black;
     color: yellowgreen;
     border-color: yellowgreen;
